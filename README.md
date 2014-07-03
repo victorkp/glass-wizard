@@ -11,3 +11,9 @@ This demo has four states:
 - End: shows the selected number in the color picked, along with a "tap to finish" message
 
 ### Screenshots ###
+![Start](images/start.jpg)
+![Color](images/color.jpg)
+![Color Menu](images/color_menu.jpg)
+![Number](images/number.jpg)
+![Number Menu](images/number_menu.jpg)
+![End](images/end.jpg)
